@@ -1,5 +1,4 @@
 Here i am  using -
-
 1. CSS and libraries - Tailwind css, DaisyUI, Meraki UI, Mamba UI
 2. React router
 3. For Tab - React-Tabs
@@ -9,3 +8,6 @@ Here i am  using -
 7. Slider - react-slick
 8. Icons - React-icons
 9. Animation - Animatoion On Scroll(AOS)
+
+Live Preview Link - 
+10. Netlify : https://restaurant-5ae661.netlify.app
