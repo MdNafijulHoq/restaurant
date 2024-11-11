@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "description": "You can't go wrong with Chicken Mandi, I had it twice. The chicken was cooked perfectly, juicy & soft (usually mandi chicken is a bit dry). I would definitely recommend it.",
+        "image": "/src/assets/top-view-meat-sauce-soup-with-potatoes-greens-dark-floor.jpg",
+        "userName": "Robert",
+        "userImage": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "userBio": "CTO at Robert Consultancy."
+    },
+    {
+        "id": "2",
+        "description": "The Beef Shawarma was beyond delicious! The flavors were well-balanced, and the meat was tender and juicy. Highly recommend giving it a try!",
+        "image": "/src/assets/meat-sadj-vegetables-greens-spices-top-view.jpg",
+        "userName": "Daniel Kim",
+        "userImage": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "userBio": "Fitness coach and wellness blogger"
+    }
+]
