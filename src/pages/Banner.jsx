@@ -13,7 +13,7 @@ const Banner = () => {
   },[])
     return (
         
-        <div className="card lg:card-side shadow-xl mt-12 mb-20 bg-red-600">
+        <div className="card lg:card-side shadow-xl mb-20 bg-red-600">
         <div className="flex flex-col lg:flex-row justify-between items-center p-4 lg:p-10">  
          
           <div className="card-body space-y-4 order-1 lg:order-1" data-aos="fade-right"

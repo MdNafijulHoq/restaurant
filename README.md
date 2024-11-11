@@ -1,8 +1,11 @@
-# React + Vite
+Here i am  using -
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. CSS and libraries - Tailwind css, DaisyUI, Meraki UI, Mamba UI
+2. React router
+3. For Tab - React-Tabs
+4. For calender - React-date-picker
+5. For toast - react-hot-toast
+6. For Contact - Emailjs validation
+7. Slider - react-slick
+8. Icons - React-icons
+9. Animation - Animatoion On Scroll(AOS)

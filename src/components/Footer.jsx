@@ -3,13 +3,14 @@ import logo1 from '../../src/assets/clock.png'
 import logo2 from '../../src/assets/call-alt.png'
 import logo3 from '../../src/assets/mail.png'
 import logo4 from '../../src/assets/map-pin.png'
+import footerImg from '../../src/assets/tasty-pizza-near-ingredients.jpg'
 
 
 const Footer = () => {
    
     return (
         <footer 
-          className="bg-white dark:bg-gray-900 shadow bg-cover bg-center rounded-xl bg-no-repeat mx-auto" style={{ backgroundImage: "url('/src/assets/tasty-pizza-near-ingredients.jpg')", 
+          className="bg-white dark:bg-gray-900 shadow bg-cover bg-center rounded-xl bg-no-repeat mx-auto" style={{ backgroundImage: `url(${footerImg})`, 
           }}>
     <div className="container px-6 py-8 mx-auto">
         <div className="flex flex-col items-center text-center">

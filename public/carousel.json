@@ -3,24 +3,24 @@
         "id": "1",
         "title": "Vegetables Burger",
         "description": "Barbecue Italian cuisine pizza",
-        "image": "/src/assets/burgerCarousel.png"
+        "image": "https://i.ibb.co.com/wcSZCYP/burger-Carousel.png"
     },
     {
         "id": "2",
         "title": "Spacial Pizza",
         "description": "Barbecue Italian cuisine pizza",
-        "image": "/src/assets/pizza1.png"
+        "image": "https://i.ibb.co.com/0n1V9Ng/pizza1.png"
     },
     {
         "id": "3",
         "title": "Spacial French Fries",
         "description": "Barbecue Italian cuisine",
-        "image": "/src/assets/french-fries.png"
+        "image": "https://i.ibb.co.com/dPLJdCV/french-fries.png"
     },
     {
         "id": "4",
         "title": "Cuisine Chicken",
         "description": "Japanese Cuisine Chicken",
-        "image": "/src/assets/fried-shrimp-prawn-cake-white-plate1.png"
+        "image": "https://i.ibb.co.com/mXGxf2M/fried-shrimp-prawn-cake-white-plate1.png"
     }
 ]

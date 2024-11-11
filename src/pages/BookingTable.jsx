@@ -3,6 +3,7 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import bookingImg from '../../src/assets/black-pasta-with-copy-space.jpg'
 
 const BookingTable = () => {
     const [startDate, setStartDate] = useState(new Date());
@@ -36,7 +37,7 @@ const BookingTable = () => {
         <div className='mb-24'>
             <div
             className="flex justify-start items-start bg-cover bg-center bg-no-repeat"
-            style={{ backgroundImage: "url('/src/assets/black-pasta-with-copy-space.jpg')", height: containerHeight
+            style={{ backgroundImage: `url(${bookingImg})`, height: containerHeight
              }}
         >
             <section className="p-4 md:p-6 mx-4 my-8 rounded-md w-full max-w-lg" data-aos="fade-right"
