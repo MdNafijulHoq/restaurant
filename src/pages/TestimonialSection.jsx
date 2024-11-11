@@ -47,7 +47,7 @@ const TestimonialSection = () => {
       <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center mb-8">
         <div>
           <h2 className="text-xl font-semibold text-red-500">Crispy, Every Bite Taste</h2>
-          <h1 className="text-4xl font-bold mt-2">Popular Food Items</h1>
+          <h1 className="text-4xl font-bold mt-2">What Some of my Customers Say</h1>
         </div>
         <div className="flex items-center justify-between mt-12 lg:justify-start">
           <button

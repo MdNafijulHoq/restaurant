@@ -135,7 +135,6 @@ const Header = () => {
                     </div>
                 </div>
             </nav>
-            {/* Spacer div to prevent content from being hidden under fixed header */}
             <div className="h-[72px] lg:h-[80px]"></div>
         </div>
     );
